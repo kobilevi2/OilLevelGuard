@@ -12,7 +12,7 @@ The sensor is connected to an ESP32-C6 microcontroller, which transmits the data
 
 Below are images of the final setup and installation:
 
-- ![Wiring Diagram](Images/OilTankGaurd_wiring_diagram.jpg)
+- ![Wiring Diagram](Images/OilTankGaurd_wiring_diagram.png)
 - ![Inside Wiring Layout](Images/IMG_5818_wirining.jpg)
 - ![Project Enclosure](Images/IMG_5833.jpg)
 - ![Sensor Mounted on Oil Tank](Images/IMG_5829.jpg)
@@ -48,7 +48,6 @@ The device is completely off-grid:
 | 6  | Solar Panel                 | Powers the system                   | 6V 1W (110×69 mm)              | [AliExpress](https://www.aliexpress.com/item/1005002796119334.html) | ~$7.30 |
 | 7  | Step-Up Converter           | Boost 3.7V to 5V                     | MT3608 DC-DC Boost Module      | [AliExpress](https://www.aliexpress.com/item/1005006678339221.html) | ~$3.64 |
 
-![Wiring Diagram](Docs/OilTankGaurd_wiring_diagram.png)
 
 ## 🧰 Implementation Notes
 
