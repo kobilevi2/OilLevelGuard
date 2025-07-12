@@ -95,4 +95,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-For questions or suggestions, feel free to reach out via [my GitHub profile](https://github.com/koblevi).
+For questions or suggestions, feel free to reach out via [my GitHub profile](https://github.com/koblevi2).
