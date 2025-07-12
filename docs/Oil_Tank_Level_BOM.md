@@ -1,0 +1,9 @@
+| Component                    | Purpose                               | Model / Specs                | Buy Link                                                                    | Price (USD)   |
+|:-----------------------------|:--------------------------------------|:-----------------------------|:----------------------------------------------------------------------------|:--------------|
+| ESP32-C6 Development Board   | Main controller with Zigbee + Wi-Fi 6 | ESP32-C6-WROOM-1 (USB-C)     | https://www.ebay.com/itm/286165884292                                       | $6.80         |
+| Liquid Presence Sensor       | Detects oil level via indicator pipe  | XKC-Y26-PNP, non-contact     | https://www.amazon.com/dp/B09QF8Y4P5                                        | $10–15        |
+| Solar Charger Module         | Charges battery from solar panel      | CN3791 MPPT Solar Charger    | https://www.aliexpress.com/item/1005002796119334.html                       | $7.70         |
+| Relay Module (1-Channel, 5V) | Powers sensor only when needed        | Standard 5V Relay            | https://www.aliexpress.com/wholesale?SearchText=1+channel+5v+relay+module   | $1–3          |
+| 18650 Battery Holder         | Holds the rechargeable battery        | 1-cell 18650 holder          | https://www.aliexpress.com/wholesale?SearchText=18650+battery+holder+1+slot | $1–2          |
+| Solar Panel                  | Powers the system off-grid            | 6V 1W Mini Panel (110×69 mm) | https://www.aliexpress.com/item/1005002796119334.html                       | $7.30         |
+| Step-Up Converter            | Boosts 3.7V (battery) to 5V           | MT3608 DC-DC Boost Module    | https://www.aliexpress.com/item/1005006678339221.html                       | $3.64         |
